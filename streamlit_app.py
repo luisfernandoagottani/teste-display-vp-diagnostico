@@ -3,8 +3,6 @@ import cv2
 import numpy as np
 import time
 from PIL import Image
-from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing.image import img_to_array
 
 # Load your pre-trained model (replace 'your_model.h5' with your model file)
 # model = load_model('your_model.h5')
