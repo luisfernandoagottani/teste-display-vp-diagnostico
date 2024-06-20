@@ -1,4 +1,15 @@
-streamlit==1.16.0
-numpy==1.26.4
-Pillow==10.3.0
-opencv-python-headless==4.5.1.48
+streamlit
+numpy
+Pillow
+easyocr
+streamlit
+opencv-python-headless==4.5.5.64
+Pillow
+mmdet
+mmocr
+paddleocr
+paddlepaddle
+mycolorpy
+plotly
+plotly-express
+mmcv-full --no-binary mmcv-full

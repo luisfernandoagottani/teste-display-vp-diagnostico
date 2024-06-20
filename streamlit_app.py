@@ -1,8 +1,8 @@
 import streamlit as st
-import cv2
 import numpy as np
 import time
 from PIL import Image
+import cv2
 
 # Load your pre-trained model (replace 'your_model.h5' with your model file)
 # model = load_model('your_model.h5')
